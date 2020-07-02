@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mssql-jdbc">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/sqljdbc_8.2/enu/META-INF/maven/com.microsoft.sqlserver/mssql-jdbc" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
